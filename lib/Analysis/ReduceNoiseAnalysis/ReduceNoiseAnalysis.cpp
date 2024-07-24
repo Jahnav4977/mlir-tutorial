@@ -10,6 +10,7 @@
 #include "llvm/include/llvm/ADT/DenseMap.h"
 #include "llvm/include/llvm/ADT/TypeSwitch.h"
 
+
 using namespace operations_research;
 
 namespace mlir {
